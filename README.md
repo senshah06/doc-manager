@@ -64,6 +64,12 @@ Access Swagger UI : http://localhost:8080/swagger-ui/index.html
 ---------------------------------------------------------------------------------------------------------------------------------------
 **If running project locally please create db
  CREATE DATABASE db_doc;
+----------------------------------------------------------------------------------------------------------------------------------------
+****Deployed Project Using Render.com**
+https://doc-manager-8kre.onrender.com
+![image](https://github.com/user-attachments/assets/91663953-8f36-452c-b506-40717c0ffd9e)
+
+ 
 
    
 
