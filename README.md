@@ -30,19 +30,23 @@ src/
             └── jk/
                 └── jktech/
                     ├── JktechApplication.java               # Main Spring Boot application class
+                    
                     ├── configs/                            # Configuration classes
                     │   ├── CorsConfig.java                 # CORS settings
                     │   ├── EncoderConfig.java              # Password encoder bean
                     │   ├── JwtUtil.java                    # JWT utility methods
                     │   ├── SecurityConfig.java             # Spring Security configuration
                     │   └── SwaggerConfig.java              # Swagger documentation setup
+                    
                     ├── controllers/                        # REST controllers
                     │   ├── AuthController.java             # Handles login, logout, registration
                     │   ├── DocumentController.java         # Upload and retrieve documents
                     │   └── QAController.java               # Search documents
+                    
                     ├── entities/                           # Entity classes
                     │   ├── Document.java                   # Document model with fields like id, title, content, etc.
                     │   └── User.java                       # User model with fields like id, username, password, role
+                    
                     └── repositories/                       # Spring Data JPA repositories
                         └── DocumentRepository.java         # Interface for document queries
 --------------------------------------------------------------------------------------------------------------------------------------
