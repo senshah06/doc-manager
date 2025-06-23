@@ -60,7 +60,7 @@ src/
     mvn clean install
     mvn spring-boot:run
 ---------------------------------------------------------------------------------------------------------------------------------------
-Access Swagger UI : http://localhost:8080/swagger-ui/
+Access Swagger UI : http://localhost:8080/swagger-ui/index.html
 
    
 
